@@ -42,7 +42,7 @@ cd cshell
 bash 3. Compile the source code
 
 ```bash
-g++ shell.cpp -o shell
+g++ cshell.cpp -o cshell
 ```
 
 4. Run cshell
